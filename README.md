@@ -1,3 +1,3 @@
-Python, FastAPI + uv package manager 
+Python playground, FastAPI + uv package manager 
 
-playground
+
